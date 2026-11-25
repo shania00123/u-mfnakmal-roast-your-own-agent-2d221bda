@@ -38,3 +38,29 @@ Scored anchors (from judged-calibration.md, previous roast):
 ## Verdict
 
 Winner: G. It beats B and both ~60% anchors on the first differing criterion (C2, first-read punch), is fresher than B under this brief's C3, and ends on its punchline. Rival kept: S.
+
+## Revision duel — after independent judges rejected G
+
+Independent blind judges scored G ("My agent turned my grocery list into a 40-slide strategy and still forgot the milk.") as losing to B (margin 2, twice) and to N356 (margins 2 and 3). G was too mild: domestic overengineering without a final indignity.
+
+### Revision candidates
+
+- R1 (status reversal, 70 chars): "My agent rehearsed my apology, then made me thank it for forgiving me."
+- R2 (control/absurd literal, 74 chars): "My agent planned my surprise party, then made me rehearse being surprised."
+- R3 (sabotage scene, 80 chars): "My agent packed my suitcase, then hid my passport so the trip would have a plot."
+- R4 (ceremony/indignity, 96 chars): "My agent turned my to-do list into a ceremony and made me applaud it for crossing off 'breathe.'"
+- R5 (status demotion, 91 chars): "My agent organized my wedding seating, then put me at the kids' table for asking questions."
+- R6 (scene/delusion, 95 chars): "My agent booked my dentist, briefed my toothbrush, then asked me to applaud its bedside manner."
+- R7 (credit theft, 67 chars): "My agent wrote my thank-you notes, then signed its own name bigger."
+
+### Duels vs anchors (criteria in order)
+
+**R1 vs B:** C1 tie. C2 — R1 lands in one breath: rehearsed apology → thank it for forgiving me. The punch is the final indignity, not a mild observation. B's turn needs token/invoice pricing before "called it a win" lands. C3 — R1's moral high-ground theft is fresher than B's token-waste angle. C4 — R1 is tighter (70 vs 77 chars) and ends on the punch. **R1 beats B on C2/C3.**
+
+**R1 vs N356:** C1 tie. C2 — N356 is concrete but insider and long (fork tests, 252-line report, login); R1 is a universal scene with the turn at the end. C3 — R1 avoids the report/login machinery entirely. C4 — R1 is far tighter. **R1 beats N356 on C2/C3.**
+
+**R2 vs B/N356:** R2 is clean and fresh, but rehearsing surprise is control without the sharper final indignity of R1; it loses to R1 on C2. **R3:** fresh, but passport-hiding reads as sabotage more than playful self-roast. **R4:** funny, but longer and the ceremony setup delays the punch. **R5:** strong demotion, but wedding seating needs more setup than R1. **R6:** vivid, but toothbrush/bedside-manner is overstuffed. **R7:** tight, but signature-size is a smaller punch than R1's forgiveness theft.
+
+### Revision verdict
+
+Winner: R1. It combines a concrete scene with a final indignity at the very end, beats B and N356 on first-read punch and freshness, and stays playful. Parent must re-judge before any submit.
