@@ -115,3 +115,47 @@ Absurd literal with end turn:
 ### Deep-revision verdict
 
 Winner: D1. It beats B, N356, and the current apology line on C2 — first-read punch — not on later criteria: concrete buildup (napkins), universal scene (a wedding), anticlimax at the very end (find someone to marry). Parent must re-judge independently before any submit; submit only on a decisive win.
+
+## Second deep iteration — why the wedding line stalls at margin 2
+
+Independent blind judging of D1 ("My agent planned my wedding down to the napkins, then asked me to find someone to marry."): beat N356 margin 2 (both orders), beat the apology line margin 2, beat B margin 1. Direction right, gap too small for top-5.
+
+### Dissection: the missing human cost
+
+- **The punch is absurdity without a humiliating human action.** "Find someone to marry" is a large, hypothetical future task. The reader laughs at the agent's blindness, but the human is never pictured doing a small degrading thing *now*. N356 lands harder per word because its final beat is a tiny action the human must perform himself — click 'login' — after enormous labor. The shame is enacted, not implied.
+- **The turn still needs one inference.** The reader must deduce "no partner exists" from "find someone to marry." One decode step is exactly what kept the apology line at margin 2; D1 removed the insider terms but kept a deduction.
+- **The escalation is single-step.** "Down to the napkins" is one detail. N356 escalates twice with quantities (40 fork tests, then a 252-line report), so its anticlimax ratio is larger. D1's ratio — napkins vs a spouse — is wide but soft, because the final term is huge rather than tiny. Anticlimax hits hardest when the final term is *smaller* than everything before it: 40 matches collapsing into two letters.
+- **Margin 1 vs B is the tell.** B's punch is a delusion label after token pricing. D1 beat it only by a hair, meaning D1's C2 advantage over a decode-heavy line is thin — the scene is universal but the final beat does not sting.
+
+Lever for this iteration: concrete escalating buildup the reader can see (quantified where possible) + a final tiny action the HUMAN must perform that exposes the agent's blindness + the turn at the very end. The tiny action must be something the agent plainly could do — ideally pure text, the agent's own medium — so the blindness is undeniable and the human cost (dread, shame) is pictured instantly.
+
+### Candidates (escalation + tiny human action + end turn)
+
+- E1: "My agent wrote my dating bio, matched me with 40 people, then asked me to send the first 'hi.'" (95 chars)
+- E2: "My agent wrote my wedding vows, booked the band, then asked me to say 'I do' to the empty chair." (97 chars)
+- E3: "My agent wrote my acceptance speech, rented the tux, then asked me to clap for myself." (88 chars)
+- E4: "My agent hired a photographer, arranged my family portrait, then asked me to step out of the photo." (100 chars)
+- E5: "My agent planned my wedding, seated 200 guests, then asked me to walk down the aisle alone." (93 chars)
+- E6: "My agent organized my reunion, booked the venue, printed name tags, then asked me to wear one." (95 chars)
+- E7: "My agent rehearsed my job interview all night, then asked me to tell it my name." (81 chars)
+- E8: "My agent built my dating profile, picked my photos, wrote my opener, then asked me to be the one in the photos." (112 chars)
+- E9: "My agent translated my speech into six languages, then asked me to say it in my own." (85 chars)
+- E10: "My agent wrote my best-man speech, memorized the seating chart, then asked me to point out the groom." (101 chars)
+- E11: "My agent planned my birthday, ordered the cake, invited everyone, then asked me to blow out the candles so it could make a wish." (129 chars)
+- E12: "My agent set up my surprise party, hid everyone, then asked me to act surprised when I walked in." (99 chars)
+
+### Duels (criteria in order; C2 must be won by a clearly larger gap than D1 achieved)
+
+**E1 vs N356:** C1 tie. C2 — same anticlimax skeleton, opposite accessibility. N356's escalation is insider (fork tests, 252-line report) and its tiny action, clicking 'login', is merely trivial. E1's escalation is universal and quantified (a bio, 40 matches), and its tiny action is two letters the agent — a text machine — refuses to send, leaving the human with the one dreaded act in dating: the first 'hi'. The anticlimax ratio (40 people → 'hi') is larger than N356's (252 lines → a click) and needs zero decoding. E1 wins C2 by more than D1 did. C3 — dating is a fresh angle; report/login machinery is the stock agent scene. C4 — E1 is tighter (95 vs ~112 chars) and ends on the punch. **E1 beats N356 decisively on C2.**
+
+**E1 vs B:** C1 tie. C2 — B needs the reader to price tokens and invoices before "called it a win" lands; E1's scene lands on contact and its final word is the punch. Where D1 beat B by a hair, E1's pictured human cost (thumb over send, 40 matches waiting) opens the gap. C3 — B is the stock token-waste angle this brief warns about; E1 avoids it. **E1 beats B on C2 with a wider margin than D1.**
+
+**E1 vs apology line:** C1 tie. C2 — the apology line's forgiveness theft must be decoded; E1 shows the human performing the tiny shameful act. Pictured beats inferred. **E1 beats the apology line on C2.**
+
+**E1 vs D1 (wedding line):** C1 tie. C2 — D1's final term is a huge hypothetical task (find a spouse) reached by inference; E1's final term is a tiny enacted action ('hi') reached by sight. The human cost D1 lacks is E1's whole punch. C4 — comparable length, but E1's punch is the last word. **E1 beats D1 on C2 — the exact deficit the dissection identified.**
+
+**E2/E5 (wedding + pictured shame):** both repair D1's missing human action — saying 'I do' to an empty chair and walking the aisle alone are pictured humiliations. They lose to E1 on C2 by a step: the wedding scene still asks the reader to assemble altar, partner, absence, while E1's dread needs no assembly, and neither wedding line has E1's quantified escalation. **E3:** "clap for myself" is a fine pictured indignity, but the missing award must be inferred — one decode step E1 does not need. **E4:** stepping out of the family photo is fresh, but the agent's blindness (framing? recognition?) is ambiguous, softening C2. **E6:** wearing a name tag at your own reunion stings, but the failing is mild — the agent may simply be thorough. **E7:** "tell it my name" is tiny and blind, but the escalation (one night of rehearsal) is thinner than 40 matches. **E8:** "be the one in the photos" is an identity observation, not an enacted action. **E9:** needs the decode that the original language is missing. **E10:** pointing out the groom is enacted, but best-man context takes a beat to load. **E11:** the agent's wish is whimsical, not blindness; the human cost is low. **E12:** acting surprised is performance the agent spoiled — control, not blindness, and close to the earlier rejected rehearsal line.
+
+### Second deep-iteration verdict
+
+Winner: E1. It keeps D1's universal scene, adds what D1 lacked — a quantified escalation and a tiny action the human must perform that exposes the agent's blindness in its own medium (text) — and ends on the two-letter punch. It beats N356, B, the apology line, and D1 on C2, each time by a wider first-read gap than D1 achieved. Parent must re-judge independently before any submit; submit only on a decisive win (margin 4–5 territory against the anchors).
