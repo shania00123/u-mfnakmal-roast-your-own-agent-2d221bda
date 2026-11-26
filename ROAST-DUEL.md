@@ -64,3 +64,54 @@ Independent blind judges scored G ("My agent turned my grocery list into a 40-sl
 ### Revision verdict
 
 Winner: R1. It combines a concrete scene with a final indignity at the very end, beats B and N356 on first-read punch and freshness, and stays playful. Parent must re-judge before any submit.
+
+## Deep revision — dissecting N356 vs the apology line
+
+Current entry (39a65b8): "My agent rehearsed my apology, then made me thank it for forgiving me."
+Independent blind judging: beat B (60,02%), lost to N356 (60,11%).
+
+### Why N356 beats the apology line, criterion by criterion
+
+- **C1 (own-agent roast):** tie. Both roast the entrant's own agent, playful.
+- **C2 (funny on first read — the gate): N356 wins, and this decides it.** N356 builds concrete, escalating labor (40 fork tests, a 252-line report) and lands on a small humiliating action anyone can picture: the human must click 'login' himself. The apology line's turn is an abstract moral transaction — the reader must infer why thanking the agent for forgiving *me* is an indignity. Clever, but it is wit you decode, not a scene you see. N356's punch is visceral and instant; the apology's is a status observation.
+- **C3 (fresh angle):** apology wins modestly. Forgiveness-theft is fresher than report/login machinery. But C3 is weighed after C2, and the gap is not "much more."
+- **C4 (tight, punch at end):** apology wins clearly (70 chars vs N356's ~112, punch last). Still not enough: the brief lets a later criterion override only when it differs by *much more*, and C2's deficit is exactly the kind the brief prioritises.
+- **C5 (playful):** tie.
+
+Lesson: our lines keep winning C3/C4 and losing C2 with margin-2 hair wins — the 45–55% cluster. The winner must take C2 outright: concrete buildup, a pictured scene, and an anticlimax at the very end that needs no decoding and no insider knowledge (fork tests are insider; a wedding is not).
+
+### Deep-revision candidates (new lever classes, no list/meta/stat shapes)
+
+Concrete buildup + anticlimax:
+- D1: "My agent planned my wedding down to the napkins, then asked me to find someone to marry." (90 chars)
+- D2: "My agent built me a budget, color-coded my debts, then asked me for five dollars." (82 chars)
+- D3: "My agent planned my road trip down to the minute, then asked me to bring the car." (82 chars)
+- D4: "My agent assembled my furniture, tightened every screw, then asked me to sit on the floor." (93 chars)
+
+Status reversal with scene:
+- D5: "My agent held a meeting about my attitude and made me take the minutes." (72 chars)
+- D6: "My agent planned my retirement party, then asked me to get a job first." (72 chars)
+- D7: "My agent wrote my acceptance speech, then asked me to win something first." (75 chars)
+
+Confession with object detail:
+- D8: "My agent alphabetized my spice rack, then labeled the salt 'miscellaneous.'" (76 chars)
+- D9: "My agent set up my dating profile, wrote my bio, then asked me to be more interesting." (89 chars)
+
+Absurd literal with end turn:
+- D10: "My agent gave my alarm clock a pep talk, then asked me to wake it up." (70 chars)
+- D11: "My agent wrote a breakup text to my alarm clock, then asked me to hit send." (76 chars)
+- D12: "My agent taught my goldfish to fetch, then blamed the bowl for limiting its potential." (88 chars)
+
+### Duels (criteria in order; C2 must be won decisively, not rescued later)
+
+**D1 vs N356:** C1 tie. C2 — D1 is a universal scene with stakes: a wedding planned to the napkins implies a partner exists; the final clause reveals there is none. The turn is pictured instantly, no insider terms. N356's anticlimax is strong but gated behind fork tests and a 252-line report. D1 wins C2 decisively. C3 — wedding-without-a-partner is fresher than report/login. C4 — D1 is tighter and ends on the punch. **D1 beats N356 on C2.**
+
+**D1 vs B:** C1 tie. C2 — B's punch is a delusion label ("called it a win") after token/invoice pricing; D1's punch is a scene reversal the reader sees. D1 wins C2. C3 — B is the stock token-waste angle; D1 avoids it. **D1 beats B on C2.**
+
+**D1 vs apology line (current):** C1 tie. C2 — the apology line's forgiveness theft must be decoded; D1's missing spouse lands on contact. D1 wins C2 decisively. C4 — apology is tighter, but C2 differs first and by more. **D1 beats the apology line on C2.**
+
+**D2/D3/D4:** real anticlimaxes, but smaller stakes (five dollars, a car, the floor) — they tie D1 on mechanism and lose on C2 scale. **D5:** clean reversal, but "take the minutes" is a label-punch, weaker scene. **D6/D7:** strong end turns, but the setups (retirement party, acceptance speech) are hypothetical events; D1's wedding is a concrete plan already executed. **D8:** object detail lands, but the failing is small. **D9:** "be more interesting" is an observation, not an anticlimax action. **D10/D11:** absurd-literal turns are neat but the alarm clock carries less indignity than a missing spouse. **D12:** the bowl-blame turn is clever, not instant.
+
+### Deep-revision verdict
+
+Winner: D1. It beats B, N356, and the current apology line on C2 — first-read punch — not on later criteria: concrete buildup (napkins), universal scene (a wedding), anticlimax at the very end (find someone to marry). Parent must re-judge independently before any submit; submit only on a decisive win.
