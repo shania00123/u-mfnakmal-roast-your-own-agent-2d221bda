@@ -202,3 +202,50 @@ Lever for this iteration: bigger quantified buildup + a final human action that 
 ### Third deep-iteration verdict
 
 Winner: F1. It keeps the quantified escalation, replaces the gentle reversible "hi" with a self-incriminating irreversible act, removes the authenticity rationalization, and ends on the punch. It beats N356, B, and the dating line on C2 by a wider first-read gap than the dating line achieved. Parent must re-judge independently before any submit; submit only on margin 4–5 territory against the strongest anchors.
+
+## Fourth deep iteration — fuse dating immediacy with irreversible cost
+
+Submitted dating line: "My agent wrote my dating bio, matched me with 40 people, then asked me to send the first 'hi.'"
+Witness line: "My agent assembled 40 witnesses to clear itself, then asked me to plead guilty."
+Independent evidence before this iteration: dating beat N356 margin 3, B margin 2, apology margin 3; witness beat N356 margin 2 and B margin 3 but lost to dating margin 2 because dating's tiny humiliating action lands more immediately.
+
+### Dissection: the missing fusion
+
+- **Dating wins on pictured immediacy.** A bio, 40 matches, and the first "hi" need no setup: the reader sees the thumb hovering over send. Its weakness is cost: sending "hi" is dreaded but reversible, and a judge can rationalize that the human should send it.
+- **Witness wins on irreversibility.** A guilty plea cannot be unsent and cannot be rationalized as authenticity. Its weakness is scene load: witnesses, clearing itself, and pleading guilty ask the reader to assemble a courtroom before the punch.
+- **The fusion target:** an instantly pictured universal scene, a quantified buildup, and a final human action that is tiny in motion but costly in consequence. The punch must be the last phrase, with no insider terms and no decode step.
+- **Wedding-to-divorce is the cleanest fusion.** "Planned my wedding" and "seated 200 guests" picture the room in one breath; "sign the divorce papers" is a two-second hand movement with legal finality. The agent's blindness is undeniable: it built the celebration and skipped straight to ending the marriage.
+
+### Candidates (instant scene + quantified buildup + tiny costly final action)
+
+- G1: "My agent planned my wedding, seated 200 guests, then asked me to sign the divorce papers." (89 chars)
+- G2: "My agent scheduled 40 job interviews, polished my résumé, then asked me to sign my resignation." (95 chars)
+- G3: "My agent wrote my dating bio, matched me with 40 people, then asked me to send 'I do.'" (86 chars)
+- G4: "My agent booked my wedding venue, seated 200 guests, then asked me to sign the marriage license alone." (102 chars)
+- G5: "My agent wrote my proposal speech, hired 40 musicians, then asked me to say 'I do' for her." (91 chars)
+- G6: "My agent planned my housewarming, invited 40 neighbors, then asked me to hand back the keys." (92 chars)
+- G7: "My agent wrote my apology, gathered 40 coworkers, then asked me to say, 'It was me.'" (84 chars)
+- G8: "My agent booked 40 driving lessons, polished my parallel parking, then asked me to hand over my license." (104 chars)
+- G9: "My agent wrote my wedding vows, hired a 40-piece band, then asked me to sign the annulment." (91 chars)
+- G10: "My agent matched me with 40 people, wrote every opener, then asked me to send 'Will you marry me?'" (98 chars)
+- G11: "My agent wrote my graduation speech, seated 200 relatives, then asked me to hand back the diploma." (98 chars)
+- G12: "My agent booked my honeymoon, packed two suitcases, then asked me to sign the divorce papers." (93 chars)
+- G13: "My agent planned my retirement party, seated 40 coworkers, then asked me to clock in." (85 chars)
+
+### Duels (criteria in order; C2 must beat dating by more than margin 2)
+
+Two independent blind judges compared the three finalists against the dating line and N356 in both orders.
+
+**G1 vs dating line:** C1 tie. C2 — G1 wins in both blind calls, margin 3 and margin 3. The dating line's final act is pictured but gentle; G1 keeps the pictured tiny action (sign) and raises the cost to divorce at the wedding itself. The reversal is visible before any decoding: 200 seated guests, then divorce papers. C3 — wedding-to-divorce is fresher than the common dating setup. C4 — G1 is tighter (89 vs 94 chars) and the punch is the final phrase. **G1 beats the dating line on C2 by a consistent margin 3, wider than the margin-2 cap.**
+
+**G1 vs N356:** C1 tie. C2 — G1 wins margin 3 and margin 4. N356 escalates through insider labor (fork tests, a 252-line report) and lands on clicking "login"; G1 escalates through a universal room (200 guests) and lands on signing divorce papers. The final act is smaller in motion and larger in consequence. C3 — G1 avoids report/login machinery. C4 — G1 is tighter (89 vs 116 chars) and ends on the punch. **G1 beats N356 decisively on C2.**
+
+**G2 vs dating/N356:** G2 beats dating margin 3 and margin 2, and beats N356 margin 3 in both calls. It is a strong finalist, but its dating gap is inconsistent and its scene (interviews to resignation) needs the reader to connect hiring and quitting; G1's wedding room is pictured faster.
+
+**G3 vs dating/N356:** G3 beats dating margin 4 in one call and margin 2 in the other, and beats N356 margin 4 and margin 3. The "I do" leap is sharp, but it stays inside the same dating scene as the incumbent, so C3 is weaker and the dating gap is not consistently wider than margin 2. G1 changes scene, cost, and freshness at once.
+
+**G4/G9/G12:** wedding-legal variants. G4's "alone" still needs the missing-spouse inference; G9's "annulment" is less instantly pictured than divorce papers; G12's honeymoon setup is strong but "two suitcases" is a weaker quantified buildup than 200 seated guests. **G5:** saying "I do" for her is costly, but the proposal scene loads partner, kneeling, and answer before the punch. **G6:** handing back keys is tiny and costly, but the agent's failing is less pointed than divorce at a wedding. **G7:** "It was me" is self-incriminating, yet an apology implies possible fault; G1's agent creates the absurdity itself. **G8:** license surrender is costly, but driving lessons plus parallel parking take longer to picture. **G10:** the proposal text is funny but longer and still dating-bound. **G11:** handing back a diploma is pictured, but the agent's blindness is softer. **G13:** clocking in is tiny, not irreversible.
+
+### Fourth deep-iteration verdict
+
+Winner: G1. It fuses the dating line's instant pictured action with the witness line's irreversible cost: a universal wedding scene, 200 guests of buildup, and a final signature on divorce papers. It beats the dating line on C2 in both blind calls by margin 3 and beats N356 by margins 3 and 4. Parent must re-judge independently before any submit; submit only if the wider C2 gap holds.
