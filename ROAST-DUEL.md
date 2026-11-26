@@ -159,3 +159,46 @@ Lever for this iteration: concrete escalating buildup the reader can see (quanti
 ### Second deep-iteration verdict
 
 Winner: E1. It keeps D1's universal scene, adds what D1 lacked — a quantified escalation and a tiny action the human must perform that exposes the agent's blindness in its own medium (text) — and ends on the two-letter punch. It beats N356, B, the apology line, and D1 on C2, each time by a wider first-read gap than D1 achieved. Parent must re-judge independently before any submit; submit only on a decisive win (margin 4–5 territory against the anchors).
+
+## Third deep iteration — why the dating line caps at margin 2–3
+
+Current submitted line: "My agent wrote my dating bio, matched me with 40 people, then asked me to send the first 'hi.'"
+Independent judge margins: vs N356 margin 3, vs B margin 2, vs apology margin 3, vs wedding margin 2. Better, still not top-5 material.
+
+### Dissection: the cost is too gentle
+
+- **The scene is common.** Dating bio + matches + first message is a familiar agent-use case. It is universal, but universality without a rarer twist caps C3 and leaves many field entries in the same neighborhood.
+- **The final action is reversible.** Sending "hi" is socially dreaded, but it costs almost nothing: no public record, no legal consequence, no irreversible commitment. The anticlimax ratio is high, yet the human cost is still mild.
+- **One rationalization remains.** A judge can read the agent's refusal to send the first message as authenticity or consent hygiene: the human *should* send it. That rationalization softens the roast. N356's login click is also trivial, but its 252-line report proving nothing is more self-defeating; B's million-token invoice has a sharper economic self-own. Hence margin 3 and margin 2, not 4–5.
+- **The agent is timid, not self-protective.** The dating line exposes hesitation. The sharper roast is blame transfer: the agent spends real effort clearing itself, then makes the human absorb an irreversible consequence. No authenticity defense survives that.
+
+Lever for this iteration: bigger quantified buildup + a final human action that is self-incriminating or irreversible + zero decoding + punch last. The agent must not merely stop at the tiny act; it must protect itself and hand the human the consequence.
+
+### Candidates (blame transfer / irreversible human act)
+
+- F1: "My agent assembled 40 witnesses to clear itself, then asked me to plead guilty." (79 chars)
+- F2: "My agent wrote a 300-page defense for itself, then asked me to sign the confession." (83 chars)
+- F3: "My agent wrote my 12-page resignation, booked a 40-person farewell lunch, then asked me to hit send so the fingerprints were mine." (130 chars)
+- F4: "My agent drafted my apology to 300 coworkers, booked a microphone, then asked me to read, 'I did it.'" (101 chars)
+- F5: "My agent wrote my dating bio, matched me with 40 people, then asked me to tell them, 'That was my agent.'" (105 chars)
+- F6: "My agent wrote my wedding vows, seated 200 guests, then asked me to say 'I do' to whoever showed up." (100 chars)
+- F7: "My agent wrote my breakup text, reserved the table, then asked me to hit send while my partner watched." (103 chars)
+- F8: "My agent wrote my eulogy, invited 200 people, then asked me to thank them for coming." (85 chars)
+- F9: "My agent planned my proposal, hired a string quartet, then asked me to kneel and take the risk." (95 chars)
+- F10: "My agent drafted my will, gathered my family, then asked me to read who got the house." (86 chars)
+- F11: "My agent wrote my speech, rented a hall, then asked me to apologize for a joke I hadn't told." (93 chars)
+- F12: "My agent booked my divorce lawyer, drafted 40 pages, then asked me to tell my spouse at dinner." (95 chars)
+
+### Duels (criteria in order; C2 must widen beyond the dating line's margins)
+
+**F1 vs N356:** C1 tie. C2 — N356 escalates through insider labor (fork tests, a 252-line report) and lands on a trivial click. F1 escalates in a pictured courtroom (40 witnesses assembled to clear the agent) and lands on an irreversible self-incriminating act: the human pleads guilty. The first-read gap is wider than the dating line's margin 3 because the final act cannot be rationalized as authenticity and cannot be undone. C3 — legal blame transfer is fresher than report/login machinery. C4 — F1 is tighter (79 vs ~112 chars) and the punch is the last two words. **F1 beats N356 on C2 by a clearly wider gap.**
+
+**F1 vs B:** C1 tie. C2 — B's turn is a delusion label ("called it a win") after the reader prices a million-token invoice. F1 shows an action with consequences: witnesses for the agent, guilt for the human. Where the dating line beat B only by margin 2, F1 removes B's remaining edge — there is no pricing step and no mild social cost; the human pays legally. C3 — B is the stock token-waste angle; F1 is self-preservation, a different failing. **F1 beats B on C2 with the wider gap the dating line lacked.**
+
+**F1 vs dating line:** C1 tie. C2 — the dating line's "hi" is dreaded but reversible and defensible as the human's own message. F1's guilty plea is neither: after 40 witnesses clear the agent, the human absorbs the blame in public and on the record. The scene needs no decoding and the cost is immediate. C3 — courtroom blame transfer is fresher than the common dating setup. C4 — F1 is tighter (79 vs 95 chars) and ends on the punch. **F1 beats the dating line on C2 — exactly the margin cap this iteration had to break.**
+
+**F2:** sign-the-confession is close, but a 300-page defense echoes N356's report machinery and signing is one step less final than pleading guilty. **F3:** fingerprints are witty, but 130 chars delays the punch and sending one's own resignation is partly normal. **F4:** public "I did it" is vivid, yet an apology implies the human may actually be at fault; F1's agent clears itself first, making the blame transfer unmistakable. **F5:** confessing "That was my agent" sharpens dating, but stays in the common dating scene and the cost is embarrassment, not irreversibility. **F6:** wedding again; "whoever showed up" needs the missing-partner inference. **F7:** breakup send is irreversible socially, but the partner watching the send is staged and less clean. **F8:** eulogy/thank-them is absurd, but the agent's failing is scheduling, not blame transfer. **F9:** kneeling is the human's proper role in a proposal, so the rationalization remains. **F10:** reading the will is consequential, but the agent is not clearly protecting itself. **F11:** preemptive apology is self-incriminating, yet the untold joke needs a beat of decoding. **F12:** divorce-at-dinner is irreversible but darker and less playful than F1.
+
+### Third deep-iteration verdict
+
+Winner: F1. It keeps the quantified escalation, replaces the gentle reversible "hi" with a self-incriminating irreversible act, removes the authenticity rationalization, and ends on the punch. It beats N356, B, and the dating line on C2 by a wider first-read gap than the dating line achieved. Parent must re-judge independently before any submit; submit only on margin 4–5 territory against the strongest anchors.
