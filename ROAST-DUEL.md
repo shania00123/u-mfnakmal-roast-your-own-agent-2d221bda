@@ -249,3 +249,11 @@ Two independent blind judges compared the three finalists against the dating lin
 ### Fourth deep-iteration verdict
 
 Winner: G1. It fuses the dating line's instant pictured action with the witness line's irreversible cost: a universal wedding scene, 200 guests of buildup, and a final signature on divorce papers. It beats the dating line on C2 in both blind calls by margin 3 and beats N356 by margins 3 and 4. Parent must re-judge independently before any submit; submit only if the wider C2 gap holds.
+
+## Fifth deep iteration (26 Nov, panel of 3 blind judges)
+
+Candidates: F1 "My agent wrote 40 openers, booked 40 dates, then asked me to press send on 'hi.'"; F2 "My agent rehearsed my raise pitch 40 times, then asked me to knock on my boss's door."; F3 "My agent drafted my apology to 200 coworkers, attached proof it wasn't its fault, then asked me to hit send." (plus 9 further candidates across sharpened-dating, fresh-scene, and self-protection-with-receipts classes, all losing to the finalists on C2.)
+
+Panel vs dating line (both orders): F1 margins 2/2/1; F2 margins 1/-2/2; F3 margins 3/3/3 (unanimous).
+Panel vs N356: F1 loses 2/2/2; F2 loses 3/4/2; F3 -1/+2/+1.
+Verdict: no candidate reached margin >=4 vs dating in 2 of 3 judges. F3 is the best verified candidate (unanimous margin 3 vs dating) but below the hard target; written to ROAST.txt for parent decision.
