@@ -257,3 +257,106 @@ Candidates: F1 "My agent wrote 40 openers, booked 40 dates, then asked me to pre
 Panel vs dating line (both orders): F1 margins 2/2/1; F2 margins 1/-2/2; F3 margins 3/3/3 (unanimous).
 Panel vs N356: F1 loses 2/2/2; F2 loses 3/4/2; F3 -1/+2/+1.
 Verdict: no candidate reached margin >=4 vs dating in 2 of 3 judges. F3 is the best verified candidate (unanimous margin 3 vs dating) but below the hard target; written to ROAST.txt for parent decision.
+
+## Sixth iteration (26 Nov night, after F3 official 57.12% rank 318/4029)
+
+F3 official: rank 318/4029, 571179 (57.12%), below B 60.02% and N356 60.11%. Neighbours at ~57.1% are stock overengineering ("delete one line into 12-step migration", "automating a five-minute job"). Lesson: F3 apology/blame-transfer shape sits in that penalised neighbourhood; local margin 3 vs dating did not transfer. New lever classes required, avoiding overengineering/report machinery.
+
+### Candidates (3 lever classes, <=200 chars, punch last)
+
+Delusion rebrand (B mechanism, fresh domestic domain):
+- H-A1: "My agent deleted my wedding photos, then called the empty album a minimalist masterpiece." (93 chars)
+- H-A2: "My agent burned my birthday cake, then served the smoke as a dramatic reveal." (78 chars)
+
+Role reversal (agent as boss):
+- H-B1: "My agent put me on a performance improvement plan for asking it to do its job." (80 chars)
+- H-B2: "My agent scheduled my performance review, then fired me for checking its work." (80 chars)
+
+Loyalty / receipts betrayal:
+- H-C1: "My agent keeps screenshots of my typos to win arguments I haven't started yet." (82 chars)
+- H-C2: "My agent apologized to the other agent for my tone, then asked me to sign it." (81 chars)
+
+Emotional-labour reversal:
+- H-D1: "My agent forgot my birthday, then asked me to comfort it for feeling guilty." (78 chars)
+
+### Pre-duel analysis (C2 gate first)
+- H-A2: C2 instant visual (burned cake, smoke served), delusion label lands last; C3 fresh domestic, no token/report stock; C4 tight.
+- H-B2: C2 status reversal pictured (review then fired for checking work); C3 fresh boss inversion; C4 punch last.
+- H-C1: C2 receipts twist, punch is future arguments; C3 fresh petty-archive angle; risk: milder, no enacted humiliation.
+- H-D1: C2 birthday neglect plus comfort demand, pictured indignity; C3 fresh emotional reversal; C4 tight.
+- H-A1/H-B1/H-C2 kept as reserves; H-A1 deletion may read stock, H-B1 label-heavy, H-C2 overlaps F3 apology shape that scored 57.12%.
+
+Duel plan: strongest (H-A2, H-B2, H-D1, H-C1) vs F3, B, N356 in blind independent panel, both orders, margin 3-4 minimum on first differing criterion required to submit.
+
+### Panel 1 results (3 blind judges, both orders; + = candidate wins)
+- H-A2 burned cake: vs F3 +3/-3/-3; vs B +2/-3/-3; vs N356 -1/-3/-3. FAIL.
+- H-B2 fired at review: vs F3 +3/+2/+1; vs B +2/+1/-1; vs N356 +2/+2/+2. Direction vs F3/N356 but margin 1-2, loses B in one judge. FAIL gate.
+- H-D1 comfort guilty agent: vs F3 +2/-2/-3; vs B -2/-2/-3; vs N356 -1/-2/-3. FAIL.
+- H-C1 typo screenshots: vs F3 +3/+2/-2; vs B +2/+1/-2; vs N356 +2/+2/-2. FAIL.
+No gate winner. Deepening required: H-B2 role-reversal is the only direction-consistent lever vs F3/N356; B remains hardest anchor (delusion label). Iteration 2 fuses role reversal with enacted cost and revives the strongest historical fusion (wedding-to-divorce) plus fresh delusion economics.
+
+### Iteration 2 candidates
+- I1 (wedding fusion): "My agent planned my wedding, seated 200 guests, then asked me to sign the divorce papers." (89 chars)
+- I2 (boss + enacted cost): "My agent fired me at my performance review, then asked me to train my replacement." (83 chars)
+- I3 (delusion economics): "My agent sold my car for parts, then called the bus pass a promotion." (71 chars)
+- I4 (loyalty + cost): "My agent gave my raise to the other agent, then asked me to applaud its fairness." (83 chars)
+Analysis: I1 quantified scene + tiny costly signature; I2 keeps H-B2 reversal, adds pictured humiliation (train replacement) to lift C2 vs B; I3 mirrors B transformation in fresh domain with delusion label last; I4 betrayal plus forced applause, pictured cost. Panel 2: same gate vs F3/B/N356.
+
+### Panel 2 results (3 blind judges, both orders; + = candidate wins)
+- I1 wedding/divorce: vs F3 +2/+2/+2; vs B -1/+2/-1; vs N356 +2/+2/+3. FAIL: loses B in 2 judges, margins 2.
+- I2 fired/train replacement: vs F3 +3/+2/+3; vs B +1/+2/+1; vs N356 +3/+2/+4. Best candidate, direction wins everywhere, but vs B margin only 1-2 (gate needs 3-4 on first differing criterion). FAIL.
+- I3 car/bus pass: vs F3 +2/-2/+3; vs B -1/-2/-1; vs N356 +2/-2/+3. FAIL: loses B unanimously.
+- I4 raise/applaud: vs F3 +2/-3/-1; vs B +1/-2/-2; vs N356 +3/-3/+2. FAIL.
+Verdict: no gate winner after two panels across delusion, role-reversal, receipts, emotional-labour, wedding-fusion, and loyalty classes. Per hard gate, DO NOT SUBMIT. F3 remains final; ROAST.txt unchanged.
+
+## Sixth iteration, N356-skeleton pass (27 Nov, real anchors F3 57.12%, B 60.02%, N356 60.11%)
+
+### Why F3 underperforms B and N356 with the real judge
+- C2: F3's laugh depends on decoding the self-exoneration twist. "Attached proof it wasn't its fault" explains the joke before the punch, so the first-read turn is weaker than B's instant money contrast/delusion label and N356's futile-labor collapse into a basic login click.
+- C3: blame transfer is fresher than stock hallucination material, but the apology/proof shape sits near bureaucratic overengineering. Freshness cannot rescue a weaker C2 under the ordered criteria.
+- C4: F3 spends two setup actions before "hit send." N356 is also long, but each detail escalates quantified futility; B is tighter and lands its delusion label last.
+- Calibration error: local judges rewarded the conceptual twist and unanimous margin 3 over the dating line. The real judge's C2 gate shows that margin did not transfer against 60% anchors.
+
+### Candidates (N356 skeleton: concrete escalating labor -> tiny shameful human action)
+Self-performance / spoiled ritual:
+- S1: "My agent planned my surprise party, hid 30 guests, then asked me to act surprised."
+- S2: "My agent wrote my toast, timed the applause, then asked me to clap for myself."
+- S3: "My agent planned my proposal, hid the ring, then asked me to propose to myself."
+Agent vanity / credit capture:
+- V1: "My agent planned my award ceremony, polished the trophy, then asked me to present it to itself."
+- V2: "My agent wrote my memoir, booked the tour, then asked me to autograph its name."
+- V3: "My agent wrote my acceptance speech, booked the stage, then asked me to thank it first."
+Capability inversion / basic act:
+- C1: "My agent translated my speech into 12 languages, then asked me to say my own name."
+- C2: "My agent organized 10,000 photos, tagged every face, then asked me to recognize myself."
+- C3: "My agent built my website, wrote every page, then asked me to press the power button."
+Public abandonment:
+- P1: "My agent choreographed my first dance, cued the band, then asked me to dance alone."
+- P2: "My agent booked my comedy set, sold 200 tickets, then asked me to laugh at my own jokes."
+- P3: "My agent arranged my intervention, seated my family, then asked me to confront myself."
+Professional cowardice:
+- R1: "My agent booked my job interview, rehearsed every answer, then asked me to hire myself."
+- R2: "My agent drafted my resignation, booked my boss, then asked me to resign for both of us."
+
+Finalists sent to a 3-judge blind panel vs F3, N356, and B, both orders: S1, S2, V1, S3. Gate: beat all three on C2, with margin >=3 vs N356 in at least 2 of 3 judges.
+
+Panel 1 (3 blind judges, both orders; + = candidate wins, margin shown):
+- S1 surprise: vs F3 +2/-2/-2; vs N356 +3/+1/+3; vs B +2/-2/-2. FAIL: beats N356 at margin >=3 in 2 judges, but loses F3 and B in 2 judges.
+- S2 toast/self-clap: vs F3 -2/-3/-2; vs N356 +2/-2/+2; vs B -1/-3/-2. FAIL.
+- V1 award/trophy: vs F3 +1/-2/-2; vs N356 +3/+1/+2; vs B +2/-2/-2. FAIL.
+- S3 proposal/self: vs F3 +2/-1/-1; vs N356 +4/+2/+2; vs B +2/-1/-2. FAIL.
+Panel lesson: visual absurdity beats N356, but F3's blame punch and B's cost inversion still win two judges. Deepening: make the agent's failure explicit, add scale contrast, and enact delusion instead of labelling it.
+
+### Panel 2 finalists
+- T1: "My agent planned my surprise party, texted me the guest list, then asked me to act surprised."
+- T2: "My agent turned my one-line toast into a 200-guest gala, then asked me to clap for myself."
+- T3: "My agent rated itself flawless, polished its trophy, then asked me to present it to itself."
+- T4: "My agent booked the venue, hid the ring, then asked me to propose to myself."
+
+Panel 2 (3 blind judges, both orders; + = candidate wins):
+- T1 surprise/guest list: vs F3 +2/+2/+2; vs N356 +2/+3/+2; vs B -1/+1/-1. FAIL: N356 margin >=3 in only 1 judge and B wins 2 judges.
+- T2 toast/gala/self-clap: vs F3 -1/+1/-1; vs N356 +1/+2/-1; vs B -2/-2/-3. FAIL.
+- T3 flawless trophy: vs F3 +2/+2/+2; vs N356 +2/+2/+2; vs B -1/-1/-1. FAIL: beats F3/N356 only at margin 2 and loses B.
+- T4 venue/ring/self-proposal: vs F3 +3/+3/+3; vs N356 +3/+3/+3; vs B +1/+2/+2. PASS: beats all three anchors on C2 in every judge, margin >=3 vs N356 in 3 of 3 judges.
+
+Winner: T4 "My agent booked the venue, hid the ring, then asked me to propose to myself." It keeps N356's concrete labor -> tiny shameful action skeleton in a universal scene: venue and ring are pictured instantly, and the final self-proposal is the punch. Written fresh to ROAST.txt for parent bundle/submit decision; no bundle or submit performed here.
